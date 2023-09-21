@@ -1,0 +1,15 @@
+D:\C#\Lab_22\Lab_22.3\bin\Debug\net7.0\Lab_22.3.exe
+D:\C#\Lab_22\Lab_22.3\bin\Debug\net7.0\Lab_22.3.deps.json
+D:\C#\Lab_22\Lab_22.3\bin\Debug\net7.0\Lab_22.3.runtimeconfig.json
+D:\C#\Lab_22\Lab_22.3\bin\Debug\net7.0\Lab_22.3.dll
+D:\C#\Lab_22\Lab_22.3\bin\Debug\net7.0\Lab_22.3.pdb
+D:\C#\Lab_22\Lab_22.3\obj\Debug\net7.0\Lab_22.3.csproj.AssemblyReference.cache
+D:\C#\Lab_22\Lab_22.3\obj\Debug\net7.0\Lab_22.3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Lab_22\Lab_22.3\obj\Debug\net7.0\Lab_22.3.AssemblyInfoInputs.cache
+D:\C#\Lab_22\Lab_22.3\obj\Debug\net7.0\Lab_22.3.AssemblyInfo.cs
+D:\C#\Lab_22\Lab_22.3\obj\Debug\net7.0\Lab_22.3.csproj.CoreCompileInputs.cache
+D:\C#\Lab_22\Lab_22.3\obj\Debug\net7.0\Lab_22.3.dll
+D:\C#\Lab_22\Lab_22.3\obj\Debug\net7.0\refint\Lab_22.3.dll
+D:\C#\Lab_22\Lab_22.3\obj\Debug\net7.0\Lab_22.3.pdb
+D:\C#\Lab_22\Lab_22.3\obj\Debug\net7.0\Lab_22.3.genruntimeconfig.cache
+D:\C#\Lab_22\Lab_22.3\obj\Debug\net7.0\ref\Lab_22.3.dll

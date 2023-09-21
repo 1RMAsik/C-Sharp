@@ -1,0 +1,15 @@
+D:\C#\Lab17\bin\Debug\net6.0\Lab17.exe
+D:\C#\Lab17\bin\Debug\net6.0\Lab17.deps.json
+D:\C#\Lab17\bin\Debug\net6.0\Lab17.runtimeconfig.json
+D:\C#\Lab17\bin\Debug\net6.0\Lab17.dll
+D:\C#\Lab17\bin\Debug\net6.0\Lab17.pdb
+D:\C#\Lab17\obj\Debug\net6.0\Lab17.csproj.AssemblyReference.cache
+D:\C#\Lab17\obj\Debug\net6.0\Lab17.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Lab17\obj\Debug\net6.0\Lab17.AssemblyInfoInputs.cache
+D:\C#\Lab17\obj\Debug\net6.0\Lab17.AssemblyInfo.cs
+D:\C#\Lab17\obj\Debug\net6.0\Lab17.csproj.CoreCompileInputs.cache
+D:\C#\Lab17\obj\Debug\net6.0\Lab17.dll
+D:\C#\Lab17\obj\Debug\net6.0\refint\Lab17.dll
+D:\C#\Lab17\obj\Debug\net6.0\Lab17.pdb
+D:\C#\Lab17\obj\Debug\net6.0\Lab17.genruntimeconfig.cache
+D:\C#\Lab17\obj\Debug\net6.0\ref\Lab17.dll

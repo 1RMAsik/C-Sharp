@@ -1,0 +1,15 @@
+C:\Users\engin\Documents\RiderProjects\College_CSharp\lab_20\bin\Debug\net7.0\lab_20.exe
+C:\Users\engin\Documents\RiderProjects\College_CSharp\lab_20\bin\Debug\net7.0\lab_20.deps.json
+C:\Users\engin\Documents\RiderProjects\College_CSharp\lab_20\bin\Debug\net7.0\lab_20.runtimeconfig.json
+C:\Users\engin\Documents\RiderProjects\College_CSharp\lab_20\bin\Debug\net7.0\lab_20.dll
+C:\Users\engin\Documents\RiderProjects\College_CSharp\lab_20\bin\Debug\net7.0\lab_20.pdb
+C:\Users\engin\Documents\RiderProjects\College_CSharp\lab_20\obj\Debug\net7.0\lab_20.csproj.AssemblyReference.cache
+C:\Users\engin\Documents\RiderProjects\College_CSharp\lab_20\obj\Debug\net7.0\lab_20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\engin\Documents\RiderProjects\College_CSharp\lab_20\obj\Debug\net7.0\lab_20.AssemblyInfoInputs.cache
+C:\Users\engin\Documents\RiderProjects\College_CSharp\lab_20\obj\Debug\net7.0\lab_20.AssemblyInfo.cs
+C:\Users\engin\Documents\RiderProjects\College_CSharp\lab_20\obj\Debug\net7.0\lab_20.csproj.CoreCompileInputs.cache
+C:\Users\engin\Documents\RiderProjects\College_CSharp\lab_20\obj\Debug\net7.0\lab_20.dll
+C:\Users\engin\Documents\RiderProjects\College_CSharp\lab_20\obj\Debug\net7.0\refint\lab_20.dll
+C:\Users\engin\Documents\RiderProjects\College_CSharp\lab_20\obj\Debug\net7.0\lab_20.pdb
+C:\Users\engin\Documents\RiderProjects\College_CSharp\lab_20\obj\Debug\net7.0\lab_20.genruntimeconfig.cache
+C:\Users\engin\Documents\RiderProjects\College_CSharp\lab_20\obj\Debug\net7.0\ref\lab_20.dll

@@ -1,0 +1,15 @@
+D:\C#\Lab_24\Lab_24.1\bin\Debug\net7.0\Lab_24.1.exe
+D:\C#\Lab_24\Lab_24.1\bin\Debug\net7.0\Lab_24.1.deps.json
+D:\C#\Lab_24\Lab_24.1\bin\Debug\net7.0\Lab_24.1.runtimeconfig.json
+D:\C#\Lab_24\Lab_24.1\bin\Debug\net7.0\Lab_24.1.dll
+D:\C#\Lab_24\Lab_24.1\bin\Debug\net7.0\Lab_24.1.pdb
+D:\C#\Lab_24\Lab_24.1\obj\Debug\net7.0\Lab_24.1.csproj.AssemblyReference.cache
+D:\C#\Lab_24\Lab_24.1\obj\Debug\net7.0\Lab_24.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Lab_24\Lab_24.1\obj\Debug\net7.0\Lab_24.1.AssemblyInfoInputs.cache
+D:\C#\Lab_24\Lab_24.1\obj\Debug\net7.0\Lab_24.1.AssemblyInfo.cs
+D:\C#\Lab_24\Lab_24.1\obj\Debug\net7.0\Lab_24.1.csproj.CoreCompileInputs.cache
+D:\C#\Lab_24\Lab_24.1\obj\Debug\net7.0\Lab_24.1.dll
+D:\C#\Lab_24\Lab_24.1\obj\Debug\net7.0\refint\Lab_24.1.dll
+D:\C#\Lab_24\Lab_24.1\obj\Debug\net7.0\Lab_24.1.pdb
+D:\C#\Lab_24\Lab_24.1\obj\Debug\net7.0\Lab_24.1.genruntimeconfig.cache
+D:\C#\Lab_24\Lab_24.1\obj\Debug\net7.0\ref\Lab_24.1.dll

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dictionaries>
+  <dictionary>
+    <language>Russian</language>
+    <Words>3500</Words>
+  </dictionary>
+  <dictionary>
+    <language>English</language>
+    <Words>3100</Words>
+  </dictionary>
+  <dictionary>
+    <language>Belorusian</language>
+    <Words>3000</Words>
+  </dictionary>
+  <dictionary>
+    <language>Japan</language>
+    <Words>2800</Words>
+  </dictionary>
+</dictionaries>

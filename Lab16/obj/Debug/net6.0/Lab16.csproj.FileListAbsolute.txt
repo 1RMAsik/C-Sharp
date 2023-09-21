@@ -1,0 +1,15 @@
+D:\C#\Lab16\bin\Debug\net6.0\Lab16.exe
+D:\C#\Lab16\bin\Debug\net6.0\Lab16.deps.json
+D:\C#\Lab16\bin\Debug\net6.0\Lab16.runtimeconfig.json
+D:\C#\Lab16\bin\Debug\net6.0\Lab16.dll
+D:\C#\Lab16\bin\Debug\net6.0\Lab16.pdb
+D:\C#\Lab16\obj\Debug\net6.0\Lab16.csproj.AssemblyReference.cache
+D:\C#\Lab16\obj\Debug\net6.0\Lab16.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Lab16\obj\Debug\net6.0\Lab16.AssemblyInfoInputs.cache
+D:\C#\Lab16\obj\Debug\net6.0\Lab16.AssemblyInfo.cs
+D:\C#\Lab16\obj\Debug\net6.0\Lab16.csproj.CoreCompileInputs.cache
+D:\C#\Lab16\obj\Debug\net6.0\Lab16.dll
+D:\C#\Lab16\obj\Debug\net6.0\refint\Lab16.dll
+D:\C#\Lab16\obj\Debug\net6.0\Lab16.pdb
+D:\C#\Lab16\obj\Debug\net6.0\Lab16.genruntimeconfig.cache
+D:\C#\Lab16\obj\Debug\net6.0\ref\Lab16.dll
