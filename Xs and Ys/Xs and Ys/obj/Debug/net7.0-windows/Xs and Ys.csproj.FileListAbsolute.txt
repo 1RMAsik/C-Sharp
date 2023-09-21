@@ -1,0 +1,20 @@
+D:\C#\Xs and Ys\Xs and Ys\bin\Debug\net7.0-windows\Xs and Ys.exe
+D:\C#\Xs and Ys\Xs and Ys\bin\Debug\net7.0-windows\Xs and Ys.deps.json
+D:\C#\Xs and Ys\Xs and Ys\bin\Debug\net7.0-windows\Xs and Ys.runtimeconfig.json
+D:\C#\Xs and Ys\Xs and Ys\bin\Debug\net7.0-windows\Xs and Ys.dll
+D:\C#\Xs and Ys\Xs and Ys\bin\Debug\net7.0-windows\Xs and Ys.pdb
+D:\C#\Xs and Ys\Xs and Ys\obj\Debug\net7.0-windows\Xs and Ys.csproj.AssemblyReference.cache
+D:\C#\Xs and Ys\Xs and Ys\obj\Debug\net7.0-windows\MainWindow.baml
+D:\C#\Xs and Ys\Xs and Ys\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\C#\Xs and Ys\Xs and Ys\obj\Debug\net7.0-windows\App.g.cs
+D:\C#\Xs and Ys\Xs and Ys\obj\Debug\net7.0-windows\Xs and Ys_MarkupCompile.cache
+D:\C#\Xs and Ys\Xs and Ys\obj\Debug\net7.0-windows\Xs and Ys.g.resources
+D:\C#\Xs and Ys\Xs and Ys\obj\Debug\net7.0-windows\Xs and Ys.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Xs and Ys\Xs and Ys\obj\Debug\net7.0-windows\Xs and Ys.AssemblyInfoInputs.cache
+D:\C#\Xs and Ys\Xs and Ys\obj\Debug\net7.0-windows\Xs and Ys.AssemblyInfo.cs
+D:\C#\Xs and Ys\Xs and Ys\obj\Debug\net7.0-windows\Xs and Ys.csproj.CoreCompileInputs.cache
+D:\C#\Xs and Ys\Xs and Ys\obj\Debug\net7.0-windows\Xs and Ys.dll
+D:\C#\Xs and Ys\Xs and Ys\obj\Debug\net7.0-windows\refint\Xs and Ys.dll
+D:\C#\Xs and Ys\Xs and Ys\obj\Debug\net7.0-windows\Xs and Ys.pdb
+D:\C#\Xs and Ys\Xs and Ys\obj\Debug\net7.0-windows\Xs and Ys.genruntimeconfig.cache
+D:\C#\Xs and Ys\Xs and Ys\obj\Debug\net7.0-windows\ref\Xs and Ys.dll
